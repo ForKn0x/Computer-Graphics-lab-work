@@ -4,5 +4,9 @@ Lab Works for Computer Graphics Course. Contains lab works for 2D transformation
 
 
 Python 
-Pygame 
+
+
+Pygame
+
+
 PyOpenGL
